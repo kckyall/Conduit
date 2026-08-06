@@ -1,0 +1,69 @@
+[
+  {
+    "business_name": "Bluebird Coffee Roasters",
+    "display_name": "Bluebird Coffee Roasters",
+    "google_place_id": "SYNTH_place_0001",
+    "primary_type": "cafe",
+    "address": "100 Example Ave",
+    "city": "Sampleton", "state": "ZZ", "zip_code": "00001",
+    "phone": "000-555-0101",
+    "website": "https://example.com/bluebird",
+    "email": "hello@bluebird.example",
+    "contact_name": "Ada Sample", "contact_title": "Owner",
+    "has_social_presence": 1, "google_rating": 4.6, "review_count": 120,
+    "website_quality": "professional",
+    "status": "enriched", "source_type": "scrape", "source_reference": "synthetic-fixture"
+  },
+  {
+    "business_name": "Copperline Bakery",
+    "display_name": "Copperline Bakery",
+    "google_place_id": "SYNTH_place_0002",
+    "primary_type": "bakery",
+    "address": "200 Example Ave",
+    "city": "Sampleton", "state": "ZZ", "zip_code": "00001",
+    "phone": "000-555-0102",
+    "website": "https://example.com/copperline",
+    "email": "no-reply@copperline.example",
+    "has_social_presence": 0, "google_rating": 4.1, "review_count": 8,
+    "website_quality": "basic",
+    "status": "enriched", "source_type": "scrape", "source_reference": "synthetic-fixture"
+  },
+  {
+    "business_name": "Harborview Diner",
+    "display_name": "Harborview Diner",
+    "google_place_id": "SYNTH_place_0003",
+    "primary_type": "restaurant",
+    "address": "300 Example Ave",
+    "city": "Sampleton", "state": "ZZ", "zip_code": "00002",
+    "phone": "000-555-0103",
+    "website": "https://example.com/harborview",
+    "email": null,
+    "has_social_presence": 1, "google_rating": 4.4, "review_count": 45,
+    "status": "enriched", "source_type": "scrape", "source_reference": "synthetic-fixture"
+  },
+  {
+    "business_name": "Old Town Pizza Co",
+    "display_name": "Old Town Pizza Co",
+    "google_place_id": "SYNTH_place_0004",
+    "primary_type": "restaurant",
+    "address": "400 Example Ave",
+    "city": "Sampleton", "state": "ZZ", "zip_code": "00002",
+    "phone": "000-555-0104",
+    "website": "https://example.com/oldtown",
+    "email": "team@oldtownpizza.example",
+    "contact_name": "Grace Sample", "contact_title": "GM",
+    "has_social_presence": 1, "google_rating": 4.8, "review_count": 260,
+    "website_quality": "strong",
+    "status": "enriched", "source_type": "scrape", "source_reference": "synthetic-fixture"
+  },
+  {
+    "business_name": "Do Not Contact LLC",
+    "display_name": "Do Not Contact LLC",
+    "google_place_id": "SYNTH_place_0005",
+    "primary_type": "cafe",
+    "city": "Sampleton", "state": "ZZ", "zip_code": "00001",
+    "phone": "000-555-0199",
+    "email": "owner@donotcontact.example",
+    "status": "opted_out", "source_type": "manual_single", "source_reference": "synthetic-fixture"
+  }
+]
