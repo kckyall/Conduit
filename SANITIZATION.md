@@ -4,11 +4,11 @@ This repository is a sanitized public snapshot of an internal lead-generation pi
 records what was removed, generalized, or replaced.
 
 ## Removed (internal names / private dependencies)
-- All internal agent/person names ("Patryck", "Kason", "Liza") from docstrings and comments.
+- All internal agent/operator names from docstrings and comments.
 - The private sibling-repository dependency: scripts previously imported `pipeline_db` from a separate
-  `liza-campaign-manager` skill via `sys.path` injection. The repo now ships its own `pipeline_db.py`
-  and imports it directly — it is fully self-contained.
-- Brand/market leakage: hardcoded "St. Pete / St. Petersburg" name suffixes in the name-normalizer.
+  internal skill via `sys.path` injection. The repo now ships its own `pipeline_db.py` and imports it
+  directly — it is fully self-contained.
+- Regional brand/market name suffixes hardcoded in the name-normalizer.
 
 ## Removed (private data)
 - **No database, no CSV exports, no scrape/enrichment result files, and no contact records are
