@@ -1,0 +1,54 @@
+{
+  "food_beverage": [
+    "restaurant", "cafe", "bakery", "bar", "meal_delivery", "meal_takeaway",
+    "ice_cream_shop", "coffee_shop", "pizza_restaurant", "seafood_restaurant",
+    "steak_house", "sushi_restaurant", "mexican_restaurant", "chinese_restaurant",
+    "italian_restaurant", "thai_restaurant", "indian_restaurant", "japanese_restaurant",
+    "vietnamese_restaurant", "greek_restaurant", "korean_restaurant", "turkish_restaurant",
+    "american_restaurant", "breakfast_restaurant", "brunch_restaurant",
+    "hamburger_restaurant", "sandwich_shop", "vegan_restaurant", "vegetarian_restaurant",
+    "wine_bar", "brewery", "distillery"
+  ],
+  "health_beauty_wellness": [
+    "beauty_salon", "hair_salon", "hair_care", "barber_shop", "spa",
+    "nail_salon", "gym", "yoga_studio", "pilates_studio", "fitness_center",
+    "tanning_salon", "massage_therapist", "skin_care_clinic"
+  ],
+  "medical_dental": [
+    "dentist", "orthodontist", "doctor", "physiotherapist", "chiropractor",
+    "veterinary_care", "optician", "pharmacy", "medical_lab", "psychologist",
+    "acupuncture_clinic", "pediatrician", "dermatologist"
+  ],
+  "retail_shopping": [
+    "clothing_store", "shoe_store", "jewelry_store", "florist", "gift_shop",
+    "book_store", "pet_store", "furniture_store", "home_goods_store",
+    "sporting_goods_store", "bicycle_store", "electronics_store", "liquor_store",
+    "convenience_store", "art_gallery", "cell_phone_store", "tobacco_shop", "thrift_store"
+  ],
+  "professional_services": [
+    "accounting", "insurance_agency", "lawyer", "real_estate_agency",
+    "travel_agency", "financial_planner", "tax_advisor", "notary_public",
+    "employment_agency", "marketing_agency"
+  ],
+  "home_services": [
+    "plumber", "electrician", "roofing_contractor", "locksmith", "painter",
+    "moving_company", "hvac_contractor", "pest_control", "landscaper",
+    "pool_service", "cleaning_service", "handyman", "garage_door_service",
+    "window_cleaning", "carpet_cleaning", "fence_contractor"
+  ],
+  "automotive": [
+    "car_repair", "car_wash", "car_dealer", "auto_parts_store", "tire_shop", "body_shop"
+  ],
+  "education_childcare": [
+    "preschool", "child_care_agency", "school", "dance_school",
+    "martial_arts_school", "music_school", "art_studio", "driving_school",
+    "tutoring_center", "swimming_pool", "language_school"
+  ],
+  "hospitality_events": [
+    "hotel", "bed_and_breakfast", "event_venue", "wedding_venue",
+    "banquet_hall", "catering_service", "photographer", "videographer"
+  ],
+  "religious_community": [
+    "church", "mosque", "synagogue", "community_center", "funeral_home"
+  ]
+}
