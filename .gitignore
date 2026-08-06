@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+secrets/
+apify.json
+scripts/apify.json
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.csv
+output/
+*.log
+.pytest_cache/
+.DS_Store
